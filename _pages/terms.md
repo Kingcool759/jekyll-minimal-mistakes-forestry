@@ -1,56 +1,56 @@
 ---
-permalink: /terms/
-title: "Terms and Privacy Policy"
-last_modified_at: 2017-10-20T12:42:38-04:00
+permalink: "/terms/"
+title: Terms and Privacy Policy
+last_modified_at: 2017-10-20T12:42:38.000-04:00
 toc: true
+
 ---
+## 隐私策略
 
-## Privacy Policy
+我的访客的隐私非常重要。本隐私政策概述了接收和收集的个人信息类型及其使用方式。
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+首先，未经您的直接同意，我绝不会将您的电子邮件地址或任何其他个人信息分享给任何人。
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+### 日志文件
 
-### Log Files
+与许多其他网站一样，此站点使用日志文件来帮助了解流量流向此站点的时间、地点和频率。这些日志文件中的信息包括：
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+* 互联网协议地址 （IP）
+* 浏览器的类型
+* 互联网服务提供商
+* 日期和时间戳
+* 引用和退出页面
+* 点击次数
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+所有这些信息都与任何可识别个人身份的信息无关。
 
-All of this information is not linked to anything that is personally identifiable.
+### 饼干和网络信标
 
-### Cookies and Web Beacons
+当您访问本网站时，“便利”cookie 会在您提交评论时存储在您的计算机上，以帮助您在下次发表评论时更快地登录 [Disqus](http://disqus.com)。
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
+第三方广告商也可能在您的浏览器上放置和读取 Cookie 和/或使用网络信标来收集信息。本网站无法访问或控制这些 Cookie。您应该查看任何和所有第三方广告服务器上的相应隐私政策，详细了解其做法以及如何选择退出。
 
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
+如果您希望禁用 Cookie，您可以通过网络浏览器选项执行此操作。可以在特定 Web 浏览器的网站上找到执行此操作的说明。
 
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
+#### 谷歌分析
 
-#### Google Analytics
+谷歌分析是我用来帮助了解访问者如何与本网站互动的网络分析工具。它使用 Cookie 和网络信标报告网站趋势，而不会识别个人访问者。您可以阅读[谷歌分析隐私政策](http://www.google.com/analytics/learn/privacy.html)。
 
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+#### 谷歌广告感知
 
-#### Google Adsense
+Google Adsense是第三方联盟营销网络，它使用cookie来帮助确保我在点击链接或广告横幅后购买产品时获得佣金，该链接或广告横幅会将您带到其商家的网站。您可以阅读[Google Adsense隐私政策](http://support.google.com/adsense/bin/answer.py?hl=en&answer=48182)。
 
-Google Adsense, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Google Adsense Privacy Policy](http://support.google.com/adsense/bin/answer.py?hl=en&answer=48182).
+## 披露政策
 
-## Disclosure Policy
+我通过联盟计划在这个网站上赚钱。如果您单击会员链接或广告横幅并购买产品，您将帮助支持此网站，因为我将获得该销售额的百分比。
 
-I make money on this website through affiliate programs. If you click an affiliate link or ad banner and buy the product, you help support this website because I'll get a percentage of that sale.
+目前，我是亚马逊和Google Adsense的会员。
 
-Currently I'm an affiliate for Amazon and Google Adsense.
+这对您意味着什么：
 
-What this means for you:
+* 我成为会员是为了赚取运营和维护本网站的成本收入。如果我可以直接控制在本网站上投放哪些广告，我只提供与本网站主题直接相关的产品以及读者/订阅者真正感兴趣或需要的产品。
+* 我不会也不会仅仅为了赚钱而推荐产品。
+* 我不会让我收到的补偿影响本网站上表达的内容、主题、帖子或意见。
+* 我非常尊重和重视我的读者，除了我自己真实客观的意见和建议之外，我不会写任何东西。
 
-* I became an affiliate to earn revenue towards the costs of running and maintaining this website. Where I have direct control over which ads are served on this website I offer only products that are directly related to the topic of this website and products that a reader/subscriber would have a genuine interest in or need of.
-* I do not and will not recommend a product just for the sake of making money.
-* I do not let the compensation I receive influence the content, topics, posts, or opinions expressed on this website.
-* I respect and value my readers too much to write anything other than my own genuine and objective opinions and advice.
-
-Just like this website, my Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.
+就像这个网站一样，我的披露政策正在进行中。随着收入流的发展，此页面也将随之发展。
